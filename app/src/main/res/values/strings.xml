@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Calculadora de resistencias</string>
+    <string name="calculadora">Calculadora de resistencias</string>
+    <string name="calcular">Calcular</string>
+
+    <string-array name="Color">
+        <item>Negro</item>
+        <item>Marron</item>
+        <item>Rojo</item>
+        <item>Naranja</item>
+        <item>verde</item>
+        <item>Azul</item>
+        <item>Gris</item>
+        <item>Blanca</item>
+    </string-array>
+</resources>
